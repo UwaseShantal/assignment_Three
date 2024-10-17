@@ -1,0 +1,1 @@
+#max consecutive char.s
